@@ -40,7 +40,6 @@ It returns one of the following strings:
 
 The implementation strictly follows the problem specification and correctly handles boundary conditions using >= comparisons.
 
-
 ## How to Run
 
 Clone the repository:
