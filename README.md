@@ -49,7 +49,7 @@ Clone the repository:
 
 Run the tests:
 
-    python test_sort.py
+    python3 test_sort.py
 
 If everything is correct, you should see:
 
