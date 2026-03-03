@@ -45,7 +45,7 @@ The implementation strictly follows the problem specification and correctly hand
 
 Clone the repository:
 
-    git clone https://github.com/<your-username>/smarter-tech-package-sort.git
+    git clone https://github.com/anudeep0701/smarter-tech-package-sort.git
     cd smarter-tech-package-sort
 
 Run the tests:
